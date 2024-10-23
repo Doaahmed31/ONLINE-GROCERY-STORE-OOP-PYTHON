@@ -1,0 +1,7 @@
+Lights,5000, 4 LED Lights with Custom Packaging
+Lamps,800,6 Colors,2 LED Bulb
+Hangers,100,5 pcs Set(Black-Blue-Green-Yellow)
+Trimmer,800,Men Beard Straightener Comb
+Airfreshner,400,Oud Fragnance
+Pictureframe,2000,30x200cm
+Soapcase,200,4 Colors(Black-Blue-Green-Yellow)

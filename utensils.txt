@@ -1,0 +1,10 @@
+Cutlery,40000,Gold Plated
+Chopper,800,Blue Oval shape
+Bottle,250,Two caps
+Brush,100,SiliconeBaking
+Juicer,2500,Double bowl 100ml + 250ml Rechargeable Wireless
+Mincer,450,Green Color Manual String Chopper
+Basket,1200,Red Color 30x30inches
+Knife,200,Steel Made golden color
+Cutlery,40000,
+Brush,340,SiliconBaking
